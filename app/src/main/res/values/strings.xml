@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Android Fragments</string>
+    <string name="action_settings">Set Me!</string>
+    <string name="portrait_mode_text_view">I love Alexa, Blake and Fred</string>
+    <string name="landscape_mode_text_view">I love Blake, Alexa and Fred</string>
+    <string name="content_mode_text_view">Hello World!</string>
+</resources>
